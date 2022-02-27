@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/LTTBDD/Android_Week_02/app/src/main/res/drawable/background_d.xml" value="0.1635" />
+        <entry key="..\:/LTTBDD/Android_Week_02/app/src/main/res/drawable/background_radious2c.xml" value="0.1635" />
         <entry key="..\:/LTTBDD/Android_Week_02/app/src/main/res/drawable/border.xml" value="0.1635" />
         <entry key="..\:/LTTBDD/Android_Week_02/app/src/main/res/drawable/border_background_button.xml" value="0.1635" />
         <entry key="..\:/LTTBDD/Android_Week_02/app/src/main/res/drawable/border_radious.xml" value="0.1635" />
@@ -11,6 +12,7 @@
         <entry key="..\:/LTTBDD/Android_Week_02/app/src/main/res/drawable/border_text.xml" value="0.1635" />
         <entry key="..\:/LTTBDD/Android_Week_02/app/src/main/res/layout/activity_main.xml" value="0.1875" />
         <entry key="..\:/LTTBDD/Android_Week_02/app/src/main/res/layout/activity_main_activity2_b.xml" value="0.264" />
+        <entry key="..\:/LTTBDD/Android_Week_02/app/src/main/res/layout/activity_main_activity2_c.xml" value="0.264" />
       </map>
     </option>
   </component>
